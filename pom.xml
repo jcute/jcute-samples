@@ -4,7 +4,7 @@
 
 	<groupId>com.github.jcute</groupId>
 	<artifactId>jcute-samples</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.5</version>
 	<packaging>jar</packaging>
 
 	<name>jcute-samples</name>
@@ -22,7 +22,7 @@
 		<dependency>
 			<groupId>com.github.jcute</groupId>
 			<artifactId>jcute-core</artifactId>
-			<version>0.0.4</version>
+			<version>0.0.5</version>
 		</dependency>
 		<dependency>
 			<groupId>cglib</groupId>
